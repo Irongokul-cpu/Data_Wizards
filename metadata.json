@@ -1,0 +1,6 @@
+{
+  "name": "PDS-Phantom demand shield",
+  "description": "A sophisticated shield against phantom demand in quick-commerce, powered by agentic AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Agents", "Real-time Dashboard", "Demand Analysis", "Zone Intelligence"]
+}
